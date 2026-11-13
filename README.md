@@ -12,6 +12,8 @@ built and what made it hard.
 
 ## P3xA Learn · [learn.p3xa.trade](https://learn.p3xa.trade)
 
+<p align="center"><img src="https://raw.githubusercontent.com/tjpienaar/p3xa-learn-showcase/main/images/p3xa-learn-today.png" alt="P3xA Learn: the team's Today page"></p>
+
 The student portal for the P3xA mentorship: lessons, daily chart practice on real gold price data, a mastery path, a
 private notebook and a free public course, plus the tools the mentor and staff run it with.
 
@@ -26,6 +28,8 @@ private notebook and a free public course, plus the tools the mentor and staff r
 
 ## Next Entry · [nextentry.app](https://nextentry.app)
 
+<p align="center"><img src="https://raw.githubusercontent.com/tjpienaar/next-entry-showcase/main/images/next-entry-checkin.gif" alt="Next Entry: the check-in and logging a trade" width="300"></p>
+
 A trading journal that steps in before the next bad trade: a checklist and a short check-in before you enter, quick
 logging, then guardrails and honest stats after. Free during its beta on iPhone and Android, with a web demo.
 
@@ -39,6 +43,8 @@ logging, then guardrails and honest stats after. Free during its beta on iPhone 
 
 ## re-Genesis companion · [web demo](https://tjpienaar.github.io/re-genesis-preview/)
 
+<p align="center"><img src="https://raw.githubusercontent.com/tjpienaar/re-genesis-showcase/main/images/re-genesis-today.gif" alt="re-Genesis: the morning ritual and the quilt" width="300"></p>
+
 The daily companion app for the book *re-Genesis* by Theunis Pienaar: a morning ritual, a belief for the day,
 practices that open chapter by chapter, an evening journal and a patchwork quilt that fills in one patch a day.
 
@@ -50,6 +56,8 @@ practices that open chapter by chapter, an evening journal and a patchwork quilt
 **[More about re-Genesis →](https://github.com/tjpienaar/re-genesis-showcase)**
 
 ## Free Rein Development · [freerein.dev](https://freerein.dev)
+
+<p align="center"><img src="https://raw.githubusercontent.com/tjpienaar/free-rein-showcase/main/images/free-rein-home.png" alt="freerein.dev at desktop and phone width"></p>
 
 My studio. Websites and apps for businesses, built so the domain, hosting and content are in the client's name and
 they can edit the site without me. Once-off pricing, ready-made designs, and moves off Wix with redirects meant to
