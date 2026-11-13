@@ -12,7 +12,7 @@ built and what made it hard.
 
 ## P3xA Learn · [learn.p3xa.trade](https://learn.p3xa.trade)
 
-<p align="center"><img src="https://raw.githubusercontent.com/tjpienaar/p3xa-learn-showcase/main/images/p3xa-learn-today.png" alt="P3xA Learn: the team's Today page"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/tjpienaar/p3xa-learn-showcase/main/images/p3xa-learn-hero.gif" alt="P3xA Learn: a swing points rep drawn and marked on a phone" width="300"></p>
 
 The student portal for the P3xA mentorship: lessons, daily chart practice on real gold price data, a mastery path, a
 private notebook and a free public course, plus the tools the mentor and staff run it with.
